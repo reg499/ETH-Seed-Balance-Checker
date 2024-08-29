@@ -1,3 +1,6 @@
+// install 
+// npm install ethers@^5.0.0
+
 const { ethers } = require("ethers");
 
 const mnemonic =
